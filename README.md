@@ -1,1 +1,9 @@
+Readme
 
+
+
+
+
+
+
+Komentar delovanja
