@@ -15,13 +15,13 @@ izračunana frekvenca vzorčenja 4 MHz. Koliko bo izbrana vrednost parametra?
 Asynchronous clock mode divided by 4.
 
 Koliko je privzeta vrednost paramtera Number of Conversion? 
-1
+1.
 
 Čas vzorčenja Sampling Time izberite 92.5 cikla. Koliko je čas vzorčenja v mikro sekundah? 
-26,125 μs
+26,125 μs.
 
 Kaj pomeni kratica DMA? 
-Direct memory access
+Direct memory access.
 
 Komentar:
 Koda je delovala brezhibno, žal so pa bile težave pri vpostavljanju povezave med Nucelom in računalnikom. Kazalo je "Failed to start GDB server" in pozneje "No ST-LINK detected", zato ni bilo videa delovanja.
