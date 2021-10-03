@@ -25,4 +25,5 @@ Direct memory access.
 
 Komentar:
 Koda je delovala brezhibno, žal so pa bile težave pri vpostavljanju povezave med Nucelom in računalnikom. Kazalo je "Failed to start GDB server" in pozneje "No ST-LINK detected", zato ni bilo videa delovanja.
+
 Avtorja: Brane Stojanović in Bojan Stojanović
